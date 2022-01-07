@@ -15,5 +15,5 @@
      
 
 # Git & Github
-* [Git & Github 특강](https://github.com/JohnKim3013/TIL/tree/master/Git%26Github%ED%8A%B9%EA%B0%95) (2021. 12.31)
+* [Git & Github](https://github.com/JohnKim3013/TIL/tree/master/Git%26Github%ED%8A%B9%EA%B0%95) (2021. 12.31)
   
